@@ -2,8 +2,6 @@
 
 ## 1. Linux Architecture
 
-Linux architecture describes how hardware, the kernel, and user applications work together.
-
 ### Core Components
 
 - **Hardware:** Physical components such as the CPU, RAM, storage, and input/output devices.
@@ -152,12 +150,4 @@ journalctl -u nginx
 
 ---
 
-## 7. Hands-on Practice Checklist
-
-- [ ] Run `ps aux` and identify a process PID.
-- [ ] Run `top` and observe CPU and memory usage.
-- [ ] Run `free -h` and `df -h`.
-- [ ] Check a service with `systemctl status <service-name>`.
-- [ ] Read its logs with `journalctl -u <service-name>`.
-- [ ] Explain the Linux architecture and process states in your own words.
 
