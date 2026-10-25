@@ -4,8 +4,6 @@
 
 Practice core networking concepts and common Linux commands used to troubleshoot IP connectivity, routing, DNS, ports, and HTTP responses.
 
-**Note:** These notes are based on the Day 14 task and your friend's reference notes. Add your own terminal outputs and observations. Do not claim a command succeeded unless you ran it and checked the result.
-
 ## 1. OSI Model vs TCP/IP Model
 
 ### OSI Model – 7 Layers
